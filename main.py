@@ -1,6 +1,5 @@
 import time
 
-# Sorting functions (from the previous code)
 
 def counting_sort_for_radix(arr, exp):
     n = len(arr)
