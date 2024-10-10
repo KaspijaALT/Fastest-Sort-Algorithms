@@ -1,10 +1,10 @@
 # Fastest-Sort-Algorithms
 
 
-Summary
+# Summary
 All algorithms successfully sorted the array to produce the same output: [1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 10]. In terms of performance, the fastest algorithm was Insertion Sort with a time of 0.000031 seconds, followed closely by Merge Sort (0.000054 seconds) and Quick Sort (0.000055 seconds). The slowest was Radix Sort, which took 0.000450 seconds. Other sorting methods, including Cocktail Sort, Heap Sort, and Shell Sort, performed within a range of 0.000101 to 0.000394 seconds, with reasonable efficiency.
 
-#All output results
+# All output results
 
 1. sorting using radix sort...
 Sorted array: [1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 10]
